@@ -15,17 +15,16 @@
 
 ### Screenshots
 
-<div style="display: flex; gap: 3%; flex-wrap: wrap; justify-content: center">
-  <img src="https://user-images.githubusercontent.com/73919235/209428180-7ca9d3f4-a139-4045-a8f2-7fa468a37fa7.png" width="30%" />
-  <img src="https://user-images.githubusercontent.com/73919235/209428178-2d8586a4-61c6-4963-be0b-80575f302b42.png" width="30%" />
-  <img src="https://user-images.githubusercontent.com/73919235/209428177-197507d4-6dbc-4e91-958c-0ad3b157f891.png" width="30%" />
-
-  <img src="https://user-images.githubusercontent.com/73919235/209428609-8e9e8f2c-4828-4ea9-8b8b-aa2643dfc62e.png" width="30%" style="margin-top: 2rem" />
-  <img src="https://user-images.githubusercontent.com/73919235/209428174-722bee44-7a8e-4704-b75d-41aea42e557d.png" width="30%" style="margin-top: 2rem" />
-  <img src="https://user-images.githubusercontent.com/73919235/209428173-39447e7b-72dc-426d-a999-813b7d026568.png" width="30%" style="margin-top: 2rem" />
-
-  <img src="https://user-images.githubusercontent.com/73919235/209428170-14f2e53f-cdd3-468b-8e4a-43c066e6fca7.png" width="30%" style="margin-top: 2rem" />
-  <img src="https://user-images.githubusercontent.com/73919235/209428328-f3916725-b9cc-49f9-ac74-d8052a5df570.png" width="30%" style="margin-top: 2rem" />
+<div style="display: flex; gap: 4%; flex-wrap: wrap; justify-content: center">
+  <img src="https://user-images.githubusercontent.com/73919235/209428180-7ca9d3f4-a139-4045-a8f2-7fa468a37fa7.png" width="22%" />
+  <img src="https://user-images.githubusercontent.com/73919235/209428178-2d8586a4-61c6-4963-be0b-80575f302b42.png" width="22%" />
+  <img src="https://user-images.githubusercontent.com/73919235/209428177-197507d4-6dbc-4e91-958c-0ad3b157f891.png" width="22%" />
+  <img src="https://user-images.githubusercontent.com/73919235/209428609-8e9e8f2c-4828-4ea9-8b8b-aa2643dfc62e.png" width="22%" />
+  
+  <img src="https://user-images.githubusercontent.com/73919235/209428174-722bee44-7a8e-4704-b75d-41aea42e557d.png" width="22%" style="margin-top: 2rem" />
+  <img src="https://user-images.githubusercontent.com/73919235/209428173-39447e7b-72dc-426d-a999-813b7d026568.png" width="22%" style="margin-top: 2rem" />
+  <img src="https://user-images.githubusercontent.com/73919235/209428170-14f2e53f-cdd3-468b-8e4a-43c066e6fca7.png" width="22%" style="margin-top: 2rem" />
+  <img src="https://user-images.githubusercontent.com/73919235/209428328-f3916725-b9cc-49f9-ac74-d8052a5df570.png" width="22%" style="margin-top: 2rem" />
 </div>
 <br>
 
