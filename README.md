@@ -3,7 +3,7 @@
 ### Description
 
 - React Native와 Expo를 이용해 개발한 To-do App입니다.
-  <br>
+<br>
 
 ### Features
 
@@ -11,11 +11,11 @@
 - To-do 완료 / 취소
 - 중복 To-do 추가 방지
 - 미입력 To-do 추가 방지
-  <br>
+<br>
 
 ### Screenshots
 
-<div style="display: flex; gap: 2%; flex-wrap: wrap; justify-content: center">
+<div style="display: flex; gap: 3%; flex-wrap: wrap; justify-content: center">
   <img src="https://user-images.githubusercontent.com/73919235/209428180-7ca9d3f4-a139-4045-a8f2-7fa468a37fa7.png" width="30%" />
   <img src="https://user-images.githubusercontent.com/73919235/209428178-2d8586a4-61c6-4963-be0b-80575f302b42.png" width="30%" />
   <img src="https://user-images.githubusercontent.com/73919235/209428177-197507d4-6dbc-4e91-958c-0ad3b157f891.png" width="30%" />
