@@ -41,4 +41,4 @@ $ yarn
 $ yarn start
 ```
 
-yarn start 명령을 실행한 후 디바이스에서 Expo Go 앱을 열고 터미널에 표시될 QR 코드를 읽거나 에뮬레이터를 열고 터미널에서 a 또는 i 키를 누릅니다.
+yarn start 명령을 실행한 후 디바이스에서 Expo Go 앱을 열고 터미널에 표시될 QR 코드를 읽거나 에뮬레이터를 열고 터미널에서 a (open Android) 또는 i (open iOS simulator) 키를 누릅니다.
