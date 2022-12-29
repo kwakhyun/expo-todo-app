@@ -3,6 +3,7 @@
 ### Description
 
 - React Native와 Expo를 이용해 개발한 To-do App입니다.
+- TypeScript를 사용해 타입 안정성을 높였습니다.
 <br>
 
 ### Features
